@@ -1,0 +1,104 @@
+
+
+
+
+
+body  {
+  
+  background-image:url(images/background1.jpg);
+  height:500px;
+  text-color: blue;
+  font-family: 'IM Fell English', serif;
+  
+  
+}
+h1  {
+	color: black;
+  font-size: 50px;
+  text-align: center;
+  
+}
+p  {
+  font-size: 30px;
+  
+}
+p1 {
+  font-size: 30px;
+  }
+
+p2  {
+  font-size: 40px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+ .btn {
+  color: #11bff2;
+  font-size: 20px;
+  background-color: black;
+  width: 160px;
+  height: 35px;
+  padding-bottom: 15px;
+  margin-left: 8px;
+  margin-right: 8px;
+  margin-bottom: 25px;
+  margin-top: 8px;
+  border-radius: 25px;
+  box-shadow: 2px 2px 2px 2px #11bff2;
+  outline: none;
+}
+
+img {
+  
+  margin: 15px 25px;
+    border-radius: 50%;
+  border-style: solid black;
+  border-width: 5px;
+  box-shadow: 2px 2px 2px 2px black;
+  
+}
+
+
+
+input[type=text], select {
+  font-size: 10px;
+    width: 100%;
+    padding: 12px 12px;
+    margin: 8px 8px;
+    display: inline-block;
+    border: 1px solid #11bff2;
+    border-radius: 25px;
+    box-sizing: border-box;
+  box-shadow: 2px 2px 2px 2px #11bff2;;
+}
+
+input, textarea{
+    background-color:black;
+    color: #11bff2;
+  font-size: 20px;
+  
+}
+
+input[type=submit] {
+    width: 150px;
+    
+    background-color: black;
+    color: #11bff2;
+    padding: 14px 20px;
+    margin-bottom: 40px;
+  margin-top: 25px;
+    border: solid silver;
+    border-radius: 50px;
+  box-shadow: 2px 2px 2px 2px #11bff2;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: silver;
+}
+
+form label {
+    font-size: 20px;
+  
+}
+
